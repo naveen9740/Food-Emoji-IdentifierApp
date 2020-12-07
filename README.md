@@ -1,2 +1,2 @@
-# Food-Emoji-IdentifierApp
+# Emoji-Identifier
 Created with CodeSandbox
